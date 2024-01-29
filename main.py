@@ -3,7 +3,7 @@ print("Welcome to the rollercoaster!")
 
 # Asks user for their height.
 height = int(input("What is your height in cm?\n"))
-# Initializes bull variable.
+# Initializes bill variable.
 bill = 0
 
 # Program continues if users height meets requirement, continues to ask them their age and depending on said age, bill variable is increased appropriately.
